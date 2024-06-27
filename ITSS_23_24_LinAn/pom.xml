@@ -23,6 +23,14 @@
             <version>RELEASE</version>
             <scope>test</scope>
         </dependency>
+
+        <!-- Dipendenza jqwik -->
+        <dependency>
+            <groupId>net.jqwik</groupId>
+            <artifactId>jqwik</artifactId>
+            <version>1.7.2</version> <!-- Sostituisci con l'ultima versione stabile -->
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <build>
