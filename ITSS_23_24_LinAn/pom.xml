@@ -28,8 +28,7 @@
         <dependency>
             <groupId>net.jqwik</groupId>
             <artifactId>jqwik</artifactId>
-            <version>1.7.2</version> <!-- Sostituisci con l'ultima versione stabile -->
-            <scope>test</scope>
+            <version>1.8.5</version>
         </dependency>
     </dependencies>
 
